@@ -1,23 +1,18 @@
-WHAT IS THIS?
--------------
+# BIP WebAdmin
 
-It's a web GUI for administration for [BIP](http://bip.milkypond.org/).
+## WHAT IS THIS?
+It's a web GUI for administration for [BIP](http://bip.milkypond.org/) IRC proxy. With this tool is possible change BIP configuration from web interface.
 
-LICENSE
----------
-
+## LICENSE
 See [license.txt](https://github.com/MekDrop/BIPWebAdmin/blob/master/license.txt) for more info.
 
-INSTALL
----------
-
+## INSTALL
 Copy files to your web folder. <br />
 Edit `config.dat.php`. <br />
 `chmod 664 users.dat.php`<br />
 Use login with *root* and *123456*
 
-SCREENSHOTS
------------
+## SCREENSHOTS
 ![BIPWebAdmin login screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/login.png)
 ![BIPWebAdmin about screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/about.png)
 ![BIPWebAdmin shows BIP process state](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/bip%20proxy%20state.png)
