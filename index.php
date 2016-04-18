@@ -11,8 +11,8 @@ error_reporting(E_ALL);
 ini_set('error_reporting', E_ALL);
 
 $package = array(
-    'version' => 0.1,
-    'author' => 'MekDrop <mekdrop@gmail.com>',
+    'version' => '0.1.1',
+    'author' => 'MekDrop <bipwebadmin@mekdrop.name>',
     'years' => '2009'
 );
 
