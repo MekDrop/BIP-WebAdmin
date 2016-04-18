@@ -109,5 +109,3 @@ function auto_access_denied() {
 	}
 	return false;
 }
-
-?>
