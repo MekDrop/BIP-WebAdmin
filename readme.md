@@ -13,9 +13,9 @@ INSTALL
 ---------
 
 Copy files to your web folder. <br />
-Edit config.dat.php. <br />
-CHMOD 777 users.dat.php<br />
-Use login with root and 123456
+Edit `config.dat.php`. <br />
+`chmod 664 users.dat.php`<br />
+Use login with *root* and *123456*
 
 SCREENSHOTS
 -----------
