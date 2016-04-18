@@ -6,8 +6,7 @@ It's a web GUI for administration for [BIP](http://bip.milkypond.org/).
 LICENSE
 ---------
 
-This software is distrubuted by The GNU Lesser General Public License (LGPLv3).<br />
-See [LICENSE file](https://github.com/MekDrop/BIPWebAdmin/blob/master/license.txt) for more info.
+See [license.txt](https://github.com/MekDrop/BIPWebAdmin/blob/master/license.txt) for more info.
 
 INSTALL
 ---------
