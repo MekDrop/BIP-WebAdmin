@@ -1,10 +1,8 @@
+[![License](https://img.shields.io/github/license/MekDrop/bip-webadmin.svg?maxAge=2592000)](License.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/bip-webadmin.svg?maxAge=2592000)
 # BIP WebAdmin
 
 ## WHAT IS THIS?
 It's a web GUI for administration for [BIP](http://bip.milkypond.org/) IRC proxy. With this tool is possible change BIP configuration from web interface.
-
-## LICENSE
-See [license.txt](https://github.com/MekDrop/BIPWebAdmin/blob/master/license.txt) for more info.
 
 ## INSTALL
 Copy files to your web folder. <br />
