@@ -13,11 +13,11 @@ Edit `config.dat.php`. <br />
 Use login with *root* and *123456*
 
 ## SCREENSHOTS
-![BIPWebAdmin login screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/login.png)
-![BIPWebAdmin about screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/about.png)
-![BIPWebAdmin shows BIP process state](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/bip%20proxy%20state.png)
-![BIPWebAdmin servers listing screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/servers.png)
-![BIPWebAdmin connection edit screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/connection%20edit.png)
-![BIPWebAdmin BIP main config screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/system%20config.png)
-![BIPWebAdmin users listing screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/users.png)
-![BIPWebAdmin user edit screen](https://raw.github.com/MekDrop/BIPWebAdmin/master/screenshots/user%20edit.png)
+![BIPWebAdmin login screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/login.png)
+![BIPWebAdmin about screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/about.png)
+![BIPWebAdmin shows BIP process state](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/bip%20proxy%20state.png)
+![BIPWebAdmin servers listing screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/servers.png)
+![BIPWebAdmin connection edit screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/connection%20edit.png)
+![BIPWebAdmin BIP main config screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/system%20config.png)
+![BIPWebAdmin users listing screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/users.png)
+![BIPWebAdmin user edit screen](https://raw.github.com/MekDrop/BIP-WebAdmin/master/.screenshots/user%20edit.png)
