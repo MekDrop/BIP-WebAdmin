@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/MekDrop/bip-webadmin.svg?maxAge=2592000)](License.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/bip-webadmin.svg?maxAge=2592000)
+[![License](https://img.shields.io/github/license/MekDrop/bip-webadmin.svg?maxAge=2592000)](license.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/bip-webadmin.svg?maxAge=2592000)
 # BIP WebAdmin
 
 ## WHAT IS THIS?
